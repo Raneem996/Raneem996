@@ -1,9 +1,10 @@
-<h1 align="center">👋 Welcome to my GitHub Page</h1>
+<h1 align="center">👋 Welcome to my GitHub Page ^_^ </h1>
 
 <p align="center">
-  I am a developer interested in <strong>Data Analysis</strong> and <strong>Artificial Intelligence</strong>,  
-  aiming to improve my programming skills and build practical projects using modern tools.
+  I am <strong>Raneem Mohsen</strong>, a developer interested in <strong>Data Analysis</strong> and <strong>Artificial Intelligence</strong>.  
+  I aim to improve my programming skills and build practical projects using modern tools.
 </p>
+
 
 <hr />
 
