@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my GitHub Page ^_^ </h1>
+<h1 align="center">👋 Hi,I'm Raneem ^_^ </h1>
 
 <p align="center">
   I am <strong>Raneem Mohsen</strong>, a developer interested in <strong>Data Analysis</strong> and <strong>Artificial Intelligence</strong>.  
@@ -20,14 +20,6 @@
 
 <hr />
 
-<h2>🎯 Goals</h2>
-<ul>
-  <li>Learn advanced techniques in <strong>Machine Learning</strong> and <strong>Deep Learning</strong>.</li>
-  <li>Apply data analysis on real-world datasets.</li>
-  <li>Build and share open-source projects on GitHub.</li>
-</ul>
-
-<hr />
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
