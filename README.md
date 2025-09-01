@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to my GitHub Page</h1>
 
-<!--
-**Raneem996/Raneem996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I am a developer interested in <strong>Data Analysis</strong> and <strong>Artificial Intelligence</strong>,  
+  aiming to improve my programming skills and build practical projects using modern tools.
+</p>
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🧰 Skills & Interests</h2>
+<ul>
+  <li>📊 Data Analysis</li>
+  <li>🤖 Artificial Intelligence (AI)</li>
+  <li>☕ Java (OOP)</li>
+  <li>🐍 Python (Pandas, NumPy, Matplotlib)</li>
+  <li>📈 Machine Learning</li>
+  <li>🌐 Git & GitHub for collaboration and projects</li>
+</ul>
+
+<hr />
+
+<h2>🎯 Goals</h2>
+<ul>
+  <li>Learn advanced techniques in <strong>Machine Learning</strong> and <strong>Deep Learning</strong>.</li>
+  <li>Apply data analysis on real-world datasets.</li>
+  <li>Build and share open-source projects on GitHub.</li>
+</ul>
+
+<hr />
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raneem996&show_icons=true&hide_title=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneem996&layout=compact" alt="Top Languages" />
+</p>
+
