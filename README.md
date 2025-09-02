@@ -94,6 +94,118 @@
       to { opacity: 1; transform: translateY(0) rotateX(0); }
     }
 
+  
+    
     @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes colorChangeFirst {
+      0% { color: #ff7e5f; }
+      50% { color: #ffcc67; }
+      100% { color: #ff7e5f; }
+    }
+
+    @keyframes colorChangeSecond {
+      0% { color: #feb47b; }
+      50% { color: #6adaff; }
+      100% { color: #feb47b; }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0) scale(1); }
+      50% { transform: translateY(-20px) scale(1.05); }
+    }
+
+    /* ===== Bio Section ===== */
+    section {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 20px;
+      margin-bottom: 40px;
+    }
+
+    h1, h2 {
+      color: #fff;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      font-size: 1.2rem;
+    }
+
+    ul li {
+      margin: 10px 0;
+    }
+
+    img {
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <!-- Logo Section -->
+  <div class="logo-container">
+    <div class="decoration"></div>
+    <div class="decoration"></div>
+    <div class="decoration"></div>
+    
+    <div class="logo">
+      <span class="first-name">Raneem</span>
+      <span class="ampersand">&</span>
+      <span class="second-name">Mohsen</span>
+    </div>
+  </div>
+
+  <!-- Bio Section -->
+  <section>
+    <h1 align="center">👋 Hi, I'm Raneem ^_^ </h1>
+    <p align="center">
+      I am <strong>Raneem Mohsen</strong>, a developer interested in <strong>Data Analysis</strong> and <strong>Artificial Intelligence</strong>.  
+      I aim to improve my programming skills and build practical projects using modern tools.
+    </p>
+  </section>
+
+  <!-- Skills -->
+  <section>
+    <h2>🧰 Skills & Interests</h2>
+    <ul>
+      <li>📊 Data Analysis</li>
+      <li>🤖 Artificial Intelligence (AI)</li>
+      <li>☕ Java (OOP)</li>
+      <li>🐍 Python (Pandas, NumPy, Matplotlib)</li>
+      <li>📈 Machine Learning</li>
+      <li>🌐 Git & GitHub for collaboration and projects</li>
+    </ul>
+  </section>
+
+  <!-- GitHub Stats -->
+  <section>
+    <h2>📊 GitHub Stats</h2>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Raneem996&show_icons=true&hide_title=true" alt="GitHub Stats" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneem996&layout=compact" alt="Top Languages" />
+    </p>
+  </section>
+
+  <script>
+    // تغيير الاسم بسهولة
+    document.querySelector('.first-name').textContent = 'Raneem';
+    document.querySelector('.second-name').textContent = 'Mohsen';
+
+    // تأثير حركة مع الماوس
+    document.addEventListener('mousemove', (e) => {
+      const x = (window.innerWidth / 2 - e.pageX) / 25;
+      const y = (window.innerHeight / 2 - e.pageY) / 25;
+      document.querySelector('.logo-container').style.transform = `translate(${x}px, ${y}px)`;
+    });
+  </script>
+</body>
+</html>
 
 
